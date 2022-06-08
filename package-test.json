@@ -1,10 +1,10 @@
 {
-  "name": "vue-page-designer-widgets-vue3",
-  "version": "1.0.0",
-  "description": "Widgets for vue-page-designer-vue3.",
+  "name": "vue-page-designer-widgets-vue",
+  "version": "0.1.5",
+  "description": "Widgets for vue-page-designer.",
   "repository": {
-    "type": "git",
-    "url": "ASVVIZIT/vue-page-designer-widgets-vue3"
+    "url": "ASVVIZIT/vue-page-designer-widgets-vue3",
+    "type": "git"
   },
   "main": "dist/bundle.js",
   "files": [
@@ -15,7 +15,7 @@
     "lint": "eslint src",
     "build": "webpack"
   },
-  "author": "ASVVIZIT",
+  "author": "",
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.22.1",
