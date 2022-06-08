@@ -1,6 +1,6 @@
 # vue-page-designer-widgets
 
-Widgets for [vue-page-designer](https://github.com/fireyy/vue-page-designer).
+Widgets for [vue-page-designer](https://github.com/ASVVIZIT/vue-page-designer-vue3).
 
 ## Install
 
@@ -10,4 +10,4 @@ yarn add vue-page-designer-widgets
 
 ## Usage
 
-View [Detail](https://github.com/fireyy/vue-page-designer)
+View [Detail](https://github.com/ASVVIZIT/vue-page-designer-vue3)
